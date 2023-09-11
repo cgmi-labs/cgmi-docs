@@ -15,12 +15,12 @@
 * [🧑🎨 Upload Recreate Works](product-guides/upload-recreate-works.md)
 * [📊 Upload Cases](product-guides/upload-cases.md)
 
-## 🥳 Collabration Program
+## Collabration Program
 
 * [NFT Project](collabration-program/nft-project/README.md)
   * [🍭 Creator Earning Plan](collabration-program/nft-project/creator-earning-plan.md)
 
-## 🎁 Resources
+## Resources
 
 * [📗 Brand Assets](resources/brand-assets.md)
 * [📖 Product Deck](resources/product-deck.md)
